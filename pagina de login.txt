@@ -1,0 +1,57 @@
+
+    <main>
+        <section id="home" class="home-section">
+            <div class="container">
+                <h2>Bem-vindo à Equipe Helias</h2>
+                <p>Somos uma equipe dedicada e apaixonada pelo esporte!</p>
+                <a href="#about" class="cta-button">Saiba mais</a>
+                <div class="social-icons">
+                    <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="container">
+                <h2>Sobre a Equipe Helias</h2>
+                <p>A Equipe Helias é conhecida por sua dedicação, treinamento intenso e sucesso no esporte.</p>
+                <p>Nossos membros representam o melhor em seu esporte e estão comprometidos com a excelência.</p>
+            </div>
+        </section>
+
+        <section id="gallery" class="gallery-section">
+            <div class="container">
+                <h2>Galeria de Fotos/Vídeos</h2>
+                <div class="gallery">
+                    <!-- Adicione suas fotos e vídeos aqui -->
+                    <!-- ... -->
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <div class="container">
+                <h2>Contato</h2>
+                <p>Entre em contato conosco para saber mais sobre nossos eventos e atividades.</p>
+                <form action="#" method="post" class="contact-form">
+                    <input type="text" name="name" placeholder="Seu nome" required>
+                    <input type="email" name="email" placeholder="Seu e-mail" required>
+                    <textarea name="message" placeholder="Sua mensagem" required></textarea>
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Equipe Helias. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
